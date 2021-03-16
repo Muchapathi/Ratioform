@@ -1,0 +1,10 @@
+13:35:55,303 DEBUG devpinoyLogger:86 - Launching Chrome
+13:36:05,749 DEBUG devpinoyLogger:108 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (cc8af406858df26627b5d5d78e32f13b)] -> xpath: //*[@id="close-cookie"]]
+13:36:05,862 DEBUG devpinoyLogger:108 - Clicking on an Element : [[ChromeDriver: chrome on WINDOWS (cc8af406858df26627b5d5d78e32f13b)] -> xpath: /html/body/newsletter-layer/div/div[1]/i]
+13:36:06,033 DEBUG devpinoyLogger:117 - Typing in an Element : [[ChromeDriver: chrome on WINDOWS (cc8af406858df26627b5d5d78e32f13b)] -> xpath: /html/body/div[2]/header-tag/div[2]/div[1]/div/div[1]/search-form/form/input[1]] entered value as : Wellpapp
+13:36:25,091 DEBUG devpinoyLogger:108 - Clicking on an Element : Proxy element for: AjaxElementLocator 'By.xpath: /html/body/div[2]/header-tag/div[2]/div[1]/div/div[1]/search-form/form/suggest-search/div/div/div/div/div[2]/a'
+13:36:35,278 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:36:35,279 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:36:35,281 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:36:35,282 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:36:35,283 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Administrator/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
